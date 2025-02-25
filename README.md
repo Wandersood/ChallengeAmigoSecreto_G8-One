@@ -1,8 +1,11 @@
-<h1>🎲 Challenge Amigo Secreto</h1> 
+<h1 align="center">
+     🎲 <a href="#" alt="Amigo Secreto"> Challenge Amigo Secreto </a>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&message=Markdown&color=blue&style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/static/v1?label=CSS&message=Style&color=blue&style=for-the-badge&logo=css"/>
+<img src="https://img.shields.io/static/v1?label=CSS&message=Style&color=blue&style=for-the-badge&logo=css"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
   <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
