@@ -68,10 +68,12 @@ Para o projeto base nós temos:
 
 <br>
 
-## 🛠️ Demonstracação
+## 🛠️ Demonstração
 
-<img src="assets/AmigoSecreto.gif" alt="Descrição do GIF" width="500"/>
-
+<p align="center">
+  <img src="assets/AmigoSecreto.gif" alt="Descrição do GIF" width="500"/>
+</p>
+<br>
 
 
 ## 🌐 Hospedagem  
