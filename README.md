@@ -47,8 +47,9 @@ Para o projeto base nós temos:
 
 ✅ Interface intuitiva: Design limpo e fácil de usar, garantindo uma experiência agradável para todos os usuários.
 
-✅ **Novo**: Possibilidade de continuar sorteando até que todos os nomes sejam escolhidos  
-✅ **Novo**: Botão para resetar o sorteio sem precisar recarregar a página  
+✅ **Funcionalidade Nova**: Possibilidade de continuar sorteando até que todos os nomes sejam escolhidos  
+
+✅ **Funcionalidade Nova**: Botão para resetar o sorteio sem precisar recarregar a página  
 
 ## 🌐 Hospedagem  
 
@@ -62,7 +63,7 @@ Clique no link abaixo para ter o acesso a página de sorteios:
 
 Caso queira rodar o projeto localmente, siga os passos abaixo:  
 
-1. Clone este repositório:  
+1. **Clone este repositório:**  
    ```bash
    git clone https://github.com/Wandersood/ChallengeAmigoSecreto_G8-One.git
 
@@ -70,5 +71,23 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
     ```bash
     cd ChallengeAmigoSecreto_G8-One
 
-3. abra o arquivo index.html em seu navegador ou execute o arquivo na IDE de sua escolha
+3. abra o arquivo `index.html`:
+- Você pode abrir o arquivo `index.html` diretamente no seu navegador. Para isso, basta arrastar o arquivo para uma janela do navegador ou usar o menu Abrir arquivo.
+
+- Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
+
+
+## 🦸 Autor
+
+## 🦸 Autor
+
+<a href="https://github.com/Wandersood">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75549167?s=96&v=4" width="100px;" alt="Wanderson Ribeiro"/>
+ <br />
+ <sub><b>Wanderson Rodrigues da Silva Ribeiro</b></sub></a>
+ <br />
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Wanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/wrsribeiro/) 
+[![GitHub Badge](https://img.shields.io/badge/-Wandersood-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Wandersood)](https://github.com/Wandersood)
+[![Gmail Badge](https://img.shields.io/badge/-mecanica.wanderson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mecanica.wanderson@gmail.com)](mailto:seu.email@gmail.com)
 
