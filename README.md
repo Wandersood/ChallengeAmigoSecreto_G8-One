@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/Wandersood/ChallengeAmigoSecreto_G8-One?$color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/Wandersood/ChallengeAmigoSecreto_G8-One?style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/Wandersood/ChallengeAmigoSecreto_G8-One?style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=orange&style=for-the-badge&logo=vercel"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -30,8 +30,7 @@ O projeto foi desenvolvido utilizando:
 ✅ **Novo**: Botão para resetar o sorteio sem precisar recarregar a página  
 
 ## 🌐 Hospedagem  
-
-O projeto está disponível online:  
+[![Deploy to Vercel](https://vercel.com/button)](https://challenge-amigo-secreto-g8-one-six.vercel.app/)  
 🔗 **Acesse aqui**: [Sorteador de Nomes no Vercel](#) *(substituir pelo link real)*  
 📂 **Código-fonte**: [Repositório no GitHub](#) *(substituir pelo link real)*  
 
