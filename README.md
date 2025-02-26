@@ -11,17 +11,18 @@
 </p>
 
 
-### Tópicos 
+### Tópicos  
 
-  :small_blue_diamond: [Descrição do Projeto](#descricao-do-projeto)
+:small_blue_diamond: [Descrição do Projeto](#✨-descricao-do-projeto)  
 
-  :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
+:small_blue_diamond: [Tecnologias Utilizadas](#🚀-tecnologias-utilizadas)  
 
-  :small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#🔨-funcionalidades)  
 
-  :small_blue_diamond: [Hospedagem](#hospedagem)
+:small_blue_diamond: [Hospedagem](#🌐-hospedagem)  
 
-  :small_blue_diamond: [Como Rodar Localmente](#como-rodar-localmente)
+:small_blue_diamond: [Como Rodar Localmente](#📥-como-rodar-localmente)  
+
    
 
 
