@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/AmigoSecreto.png" alt="Logotipo" width="200"/>
+</p>
+
 <h1 align="center">
      🎲 <a href="#" alt="Amigo Secreto"> Challenge Amigo Secreto </a>
 </h1>
