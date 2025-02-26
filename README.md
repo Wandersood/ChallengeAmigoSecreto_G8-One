@@ -23,7 +23,7 @@
 
 :small_blue_diamond: [Como Rodar Localmente](#-como-rodar-localmente)  
 
-   
+:small_blue_diamond: [Autor](#-autor)     
 
 
 ## ✨ Descrição do Projeto
