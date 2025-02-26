@@ -10,21 +10,24 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
+
 ### Tópicos 
 
-  :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+  :small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
+
+  :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
   :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-  :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+  :small_blue_diamond: [Hospedagem](#hospedagem)
 
-  :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-  :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+  :small_blue_diamond: [Como Rodar Localmente](#como-rodar-localmente-arrow_forward)
    
+
 
 ## ✨ Descrição do Projeto
 Esta aplicação web é uma solução simples e interativa para realizar sorteios de nomes de forma rápida e divertida. O usuário pode inserir uma lista de nomes, e o sistema selecionará aleatoriamente um deles como o vencedor, exibindo o resultado de maneira destacada e visualmente atraente na tela. Ideal para brincadeiras como "Amigo Secreto", sorteios em eventos ou qualquer ocasião que necessite de uma escolha justa e imparcial.   
+
 
 ## 🚀 Tecnologias Utilizadas  
 
@@ -35,6 +38,7 @@ O projeto foi desenvolvido utilizando:
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Para a lógica do sorteio.                                                     |
 | [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | Para a estruturação da página.                                                |
 | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | Para o design e estilização da página.                                        |
+
 
 ## 🔨 Funcionalidades  
 Para o projeto base nós temos: 
@@ -51,11 +55,13 @@ Para o projeto base nós temos:
 
 ✅ **Funcionalidade Nova**: Botão para resetar o sorteio sem precisar recarregar a página  
 
+
 ## 🌐 Hospedagem  
 
 Clique no link abaixo para ter o acesso a página de sorteios:
 
 [![Deploy to Vercel](https://vercel.com/button)](https://challenge-amigo-secreto-g8-one-six.vercel.app/)   
+
 
 ## 📥 Como Rodar Localmente  
 
