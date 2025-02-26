@@ -76,20 +76,19 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 
 - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
 
+---
+
 
 ## 🦸 Autor
 
 <a href="https://github.com/Wandersood">
   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75549167?s=400&u=e1ba7e040150b6540b22be0237322ca56edd4dc3&v=4" width="100px;" alt="Wanderson Ribeiro"/>
   <br />
-<sub><b><u>Wanderson</u> <u>Rodrigues</u> <u>da</u> <u>Silva</u> <u>Ribeiro</u></b></sub>
-
+  <sub><b>Wanderson Rodrigues da Silva Ribeiro</b></sub>
 </a>
 
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wrsribeiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wandersood)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mecanica.wanderson@gmail.com)
-
 
