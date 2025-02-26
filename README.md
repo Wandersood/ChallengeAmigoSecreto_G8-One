@@ -10,14 +10,31 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
+### Tópicos 
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
+
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
   
 
-## Uma aplicação web para sorteio de nomes, onde o usuário pode adicionar uma lista de nomes e o sistema escolherá aleatoriamente um deles, destacando o vencedor na tela.   
+## Descrição do Projeto
+Esta aplicação web é uma solução simples e interativa para realizar sorteios de nomes de forma rápida e divertida. O usuário pode inserir uma lista de nomes, e o sistema selecionará aleatoriamente um deles como o vencedor, exibindo o resultado de maneira destacada e visualmente atraente na tela. Ideal para brincadeiras como "Amigo Secreto", sorteios em eventos ou qualquer ocasião que necessite de uma escolha justa e imparcial.   
 
 ## 🚀 Tecnologias Utilizadas  
 
 O projeto foi desenvolvido utilizando:  
  
+## Tecnologias utilizadas
+
+**[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+**[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)**
+**[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)**
 - **<img src="https://img.shields.io/static/v1?label=CSS&message=Style&color=blue&style=for-the-badge&logo=css"/>** para a estrutura da página  
 - **CSS** para o design e estilização  
 - **JavaScript** para a lógica do sorteio  
