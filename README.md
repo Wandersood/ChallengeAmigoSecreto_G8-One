@@ -67,11 +67,12 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/Wandersood/ChallengeAmigoSecreto_G8-One.git
 
-2. Acesse a pasta do projeto:
+2. **Acesse a pasta do projeto:**
     ```bash
     cd ChallengeAmigoSecreto_G8-One
+    ``
 
-3. abra o arquivo `index.html`:
+3. **Abra o arquivo `index.html`:**
 - Você pode abrir o arquivo `index.html` diretamente no seu navegador. Para isso, basta arrastar o arquivo para uma janela do navegador ou usar o menu Abrir arquivo.
 
 - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
