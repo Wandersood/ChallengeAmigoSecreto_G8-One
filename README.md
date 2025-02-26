@@ -3,11 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/Wandersood/ChallengeAmigoSecreto_G8-One?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/Wandersood/ChallengeAmigoSecreto_G8-One?$color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/Wandersood/ChallengeAmigoSecreto_G8-One?style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=HTML&message=Markdown&color=blue&style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/static/v1?label=CSS&message=Style&color=blue&style=for-the-badge&logo=css"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -19,7 +17,8 @@
 ## 🚀 Tecnologias Utilizadas  
 
 O projeto foi desenvolvido utilizando:  
-- **HTML** para a estrutura da página  
+ 
+- **<img src="https://img.shields.io/static/v1?label=CSS&message=Style&color=blue&style=for-the-badge&logo=css"/>** para a estrutura da página  
 - **CSS** para o design e estilização  
 - **JavaScript** para a lógica do sorteio  
 
