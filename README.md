@@ -29,15 +29,10 @@ Esta aplicação web é uma solução simples e interativa para realizar sorteio
 ## 🚀 Tecnologias Utilizadas  
 
 O projeto foi desenvolvido utilizando:  
- 
-## Tecnologias utilizadas
 
-**[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-**[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)**
-**[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-- **<img src="https://img.shields.io/static/v1?label=CSS&message=Style&color=blue&style=for-the-badge&logo=css"/>** para a estrutura da página  
-- **CSS** para o design e estilização  
-- **JavaScript** para a lógica do sorteio  
+- **[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** para a lógica do sorteio  
+- **[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)**para a etruturação da página  
+- **[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)** para o design e estilização da página  
 
 ## ✨ Funcionalidades  
 
