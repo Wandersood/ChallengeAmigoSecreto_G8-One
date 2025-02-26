@@ -82,12 +82,15 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 ## 🦸 Autor
 
 <a href="https://github.com/Wandersood">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75549167?s=96&v=4" width="100px;" alt="Wanderson Ribeiro"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75549167?s=400&u=e1ba7e040150b6540b22be0237322ca56edd4dc3&v=4" width="100px;" alt="Wanderson Ribeiro"/>
  <br />
  <sub><b>Wanderson Rodrigues da Silva Ribeiro</b></sub></a>
- <br />
+ <br /></br ></br >
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Wanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/wrsribeiro/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wrsribeiro/)
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Wanderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wrsribeiro/)](https://www.linkedin.com/in/wrsribeiro/) 
 [![GitHub Badge](https://img.shields.io/badge/-Wandersood-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Wandersood)](https://github.com/Wandersood)
 [![Gmail Badge](https://img.shields.io/badge/-mecanica.wanderson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mecanica.wanderson@gmail.com)](mailto:seu.email@gmail.com)
 
