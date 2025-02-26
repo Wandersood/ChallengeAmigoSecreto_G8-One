@@ -108,7 +108,7 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-<br>
+
 ---
 
 ## 🦸 Autor
