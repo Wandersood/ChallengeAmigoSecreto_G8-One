@@ -71,9 +71,9 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
     ```
 
 3. **Abra o arquivo `index.html`:**
-  - Você pode abrir o arquivo `index.html` diretamente no seu navegador. Para isso, basta arrastar o arquivo para uma janela do navegador ou usar o menu Abrir arquivo.
+&nbsp;&nbsp;&nbsp;&nbsp;- Você pode abrir o arquivo `index.html` diretamente no seu navegador. Para isso, basta arrastar o arquivo para uma janela do navegador ou usar o menu Abrir arquivo.
 
-  - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
+&nbsp;&nbsp;&nbsp;&nbsp;- Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
 
 ---
 
