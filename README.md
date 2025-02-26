@@ -20,6 +20,8 @@
 
 :small_blue_diamond: [Funcionalidades](#-funcionalidades)  
 
+:small_blue_diamond: [Demonstração](#-demonstração)  
+
 :small_blue_diamond: [Hospedagem](#-hospedagem)  
 
 :small_blue_diamond: [Como Rodar Localmente](#-como-rodar-localmente)
@@ -64,6 +66,12 @@ Para o projeto base nós temos:
 ✅ **Funcionalidade Nova**: Botão para resetar o sorteio sem precisar recarregar a página  
 
 <br>
+
+## 🛠️ Demonstracação
+
+<img src="assets/AmigoSecreto.gif" alt="Descrição do GIF" width="500"/>
+
+
 
 ## 🌐 Hospedagem  
 
