@@ -30,23 +30,11 @@ Esta aplicação web é uma solução simples e interativa para realizar sorteio
 
 O projeto foi desenvolvido utilizando:  
 
-<div style="text-align: center;">
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    </a> para a lógica do sorteio
-  </p>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    </a> para a estruturação da página
-  </p>
-  <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    </a> para o design e estilização da página
-  </p>
-</div>
+| **Tecnologia**       | **Descrição**                                                                 |
+|-----------------------|-------------------------------------------------------------------------------|
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Para a lógica do sorteio.                                                     |
+| [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | Para a estruturação da página.                                                |
+| [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | Para o design e estilização da página.                                        |
 
 ## ✨ Funcionalidades  
 
