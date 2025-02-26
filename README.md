@@ -88,7 +88,7 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 </a>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wrsribeiro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wrsribeiro?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEL0cusTJT8CuwfZy8d6pDw%3D%3D)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wandersood)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mecanica.wanderson@gmail.com)
 
