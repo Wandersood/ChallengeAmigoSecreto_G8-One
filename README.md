@@ -10,7 +10,6 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<br>
 
 ### Tópicos  
 <br>
@@ -30,13 +29,11 @@
 <br>
 
 ## ✨ Descrição do Projeto
-<br>
 
 Esta aplicação web é uma solução simples e interativa para realizar sorteios de nomes de forma rápida e divertida. O usuário pode inserir uma lista de nomes, e o sistema selecionará aleatoriamente um deles como o vencedor, exibindo o resultado de maneira destacada e visualmente atraente na tela. Ideal para brincadeiras como "Amigo Secreto", sorteios em eventos ou qualquer ocasião que necessite de uma escolha justa e imparcial.   
 <br>
 
 ## 🚀 Tecnologias Utilizadas  
-<br>
 
 O projeto foi desenvolvido utilizando:  
 
@@ -49,7 +46,6 @@ O projeto foi desenvolvido utilizando:
 <br>
 
 ## 🔨 Funcionalidades  
-<br>
 
 Para o projeto base nós temos: 
 
@@ -68,7 +64,6 @@ Para o projeto base nós temos:
 <br>
 
 ## 🌐 Hospedagem  
-<br>
 
 Clique no link abaixo para ter o acesso a página de sorteios:
 
@@ -77,8 +72,6 @@ Clique no link abaixo para ter o acesso a página de sorteios:
 <br>
 
 ## 📥 Como Rodar Localmente  
-<br>
-
 Caso queira rodar o projeto localmente, siga os passos abaixo:  
 
 1. **Clone este repositório:**  
@@ -97,10 +90,8 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
 
 ---
-<br>
 
 ## 🦸 Autor
-<br>
 <a href="https://github.com/Wandersood">
   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75549167?s=400&u=e1ba7e040150b6540b22be0237322ca56edd4dc3&v=4" width="100px;" alt="Wanderson Ribeiro"/>
   <br />
