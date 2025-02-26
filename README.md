@@ -21,7 +21,7 @@
 
   :small_blue_diamond: [Hospedagem](#hospedagem)
 
-  :small_blue_diamond: [Como Rodar Localmente](#como-rodar-localmente-arrow_forward)
+  :small_blue_diamond: [Como Rodar Localmente](#como-rodar-localmente)
    
 
 
