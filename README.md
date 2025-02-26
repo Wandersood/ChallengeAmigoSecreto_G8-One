@@ -89,6 +89,11 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 
 - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
 
+## 📜 Licença  
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+
 ---
 
 ## 🦸 Autor
