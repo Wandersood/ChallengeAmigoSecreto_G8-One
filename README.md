@@ -82,7 +82,7 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 <a href="https://github.com/Wandersood">
   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75549167?s=400&u=e1ba7e040150b6540b22be0237322ca56edd4dc3&v=4" width="100px;" alt="Wanderson Ribeiro"/>
   <br />
-  <sub><b>Wanderson Rodrigues da Silva Ribeiro</b></sub>
+  <sub><b>Wanderson</b></sub> <b><sub>Rodrigues</b></sub> <b><sub>da</b></sub> <b><sub>Silva</b></sub> <b><sub>Ribeiro</b></sub>
 </a>
 
 ---
