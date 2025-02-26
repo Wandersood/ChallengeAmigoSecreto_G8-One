@@ -24,7 +24,7 @@
 
 :small_blue_diamond: [Como Rodar Localmente](#-como-rodar-localmente)
 
-:small_blue_diamond: [Licença] (#-licença)  
+:small_blue_diamond: [Licença](#-licença)
 
 :small_blue_diamond: [Autor](#-autor)     
 
