@@ -13,7 +13,7 @@
 
 ### Tópicos 
 
-  :small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
+  :small_blue_diamond: [Descrição do Projeto](#descricao-do-projeto)
 
   :small_blue_diamond: [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
