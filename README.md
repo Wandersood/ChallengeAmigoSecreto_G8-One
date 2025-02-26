@@ -12,16 +12,16 @@
 
 ### Tópicos 
 
- :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+  :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
- :small_blue_diamond: [Funcionalidades](#funcionalidades)
+  :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
- :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+  :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
- :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+  :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
- :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-  
+  :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+   
 
 ## ✨ Descrição do Projeto
 Esta aplicação web é uma solução simples e interativa para realizar sorteios de nomes de forma rápida e divertida. O usuário pode inserir uma lista de nomes, e o sistema selecionará aleatoriamente um deles como o vencedor, exibindo o resultado de maneira destacada e visualmente atraente na tela. Ideal para brincadeiras como "Amigo Secreto", sorteios em eventos ou qualquer ocasião que necessite de uma escolha justa e imparcial.   
@@ -71,9 +71,9 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
     ```
 
 3. **Abra o arquivo `index.html`:**
- - Você pode abrir o arquivo `index.html` diretamente no seu navegador. Para isso, basta arrastar o arquivo para uma janela do navegador ou usar o menu Abrir arquivo.
+  - Você pode abrir o arquivo `index.html` diretamente no seu navegador. Para isso, basta arrastar o arquivo para uma janela do navegador ou usar o menu Abrir arquivo.
 
- - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
+  - Alternativamente, execute o projeto em uma IDE de sua escolha (como **Visual Studio Code**, **Sublime Text**, etc.) e utilize uma extensão como **Live Server** para rodar o projeto.
 
 ---
 
