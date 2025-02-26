@@ -22,7 +22,9 @@
 
 :small_blue_diamond: [Hospedagem](#-hospedagem)  
 
-:small_blue_diamond: [Como Rodar Localmente](#-como-rodar-localmente)  
+:small_blue_diamond: [Como Rodar Localmente](#-como-rodar-localmente)
+
+:small_blue_diamond: [Licença] (#-licença)  
 
 :small_blue_diamond: [Autor](#-autor)     
 
@@ -92,7 +94,6 @@ Caso queira rodar o projeto localmente, siga os passos abaixo:
 ## 📜 Licença  
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
 
 ---
 
